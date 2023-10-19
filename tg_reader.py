@@ -27,9 +27,6 @@ binaryToken = ''
 
 parentDirectory = os.getcwd()
 
-account_sid = 'AC19e6ae82c2b4e3e11d87af1113a07fe6'
-auth_token = '8fc0e06400af94efe26e56d4f34a4e3d'
-smsClient = Client(account_sid, auth_token)
 
 LastTradeInfo = ''
 
