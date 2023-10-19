@@ -1079,8 +1079,8 @@ def log(data):
             f.write(date+' '+time+' '+data+'\n'+'============================\n')
 
 session = 'user'#os.environ.get('TG_SESSION', 'loger')
-api_id = 19533412
-api_hash = '244adfc8d6a54f85df6958ac3823e203'
+api_id = #ID here
+api_hash = '#Hash here
 proxy = None  # https://github.com/Anorov/PySocks
 
 # Create and start the client so we can make requests (we don't here)
